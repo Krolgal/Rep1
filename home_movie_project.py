@@ -14,3 +14,10 @@ API: ingyenesen használható, publikus adatbázis, http requestek segítségév
 Gitkezelés a feladat elkészítése során
 
 """
+"""
+3 féle megoldás lesz:
+1, fájl alapon tároljuk le az adatokat
+2, Adatbázisban tároljuk le
+3, 
+
+"""
